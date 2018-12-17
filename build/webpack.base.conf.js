@@ -11,6 +11,7 @@ function resolve (dir) {
 const createLintingRule = () => ({
   test: /\.(js|vue)$/,
   loader: 'eslint-loader',
+  exclude: /node_modules/,
   enforce: 'pre',
   include: [resolve('src'), resolve('test')],
   options: {
@@ -76,6 +77,9 @@ module.exports = {
         }
       }
     ]
+  },
+  externals: {
+    AMap: 'AMap'
   },
   node: {
     // prevent webpack from injecting useless setImmediate polyfill because Vue
