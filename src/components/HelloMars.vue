@@ -9,45 +9,48 @@
         Description({{selectedFilter}}): {{currentSelectedDescription}}
       </div>
     </div>
-    <div class="row">
-      <div class="col-12">
-        <div v-if="shouldShowFile" v-for="file in rawFiles"  v-bind:key="file.name" style="border:1px solid #ff00ee" >
-          <div>{{file.name}}</div>
-          <div>file content</div>
-        </div>
-    </div>
+    <FileTray v-bind:files="chunkFiles"  v-on:addPoints="addPoints"></FileTray>
     <div class="row">
       <div class="col-12">
         <div id = "container" style="width: 100%;height: 800px;"></div>
       </div>
     </div>
   </div>
-  </div>
 </template>
 <script>
 import AMap from 'AMap'
 import $ from 'jquery'
+import FileTray from '@/components/FileTray'
 
 export default {
   name: 'HelloMars',
+  components: {FileTray},
   data () {
     return {
       msg: 'Welcome to Your Mars App',
-      selectedFilter: '',
+      selectedFilter: 'locationKeywordsFilter',
       pointFilters: [
         {
           name: 'Location keywords',
-          description: 'Filter the location as keywords: Location:*.*,*,*',
+          description: 'Filter the location as keywords: Location:*.*,*,*  Sample: Location:126.432432,36.432432543',
           method: 'locationKeywordsFilter'
         }
       ],
-      rawFiles: []
+      chunkFiles: []
     }
   },
   methods: {
     locationKeywordsFilter: function (lineString) {
-      var re1 = /Location\\:[0-9]*,[0-9]*/g
-      return lineString.match(re1)
+      var re1 = '/Location:\\d{2,3}\\.\\d{3,15}\\,\\d{2,3}\\.\\d{3,15}/g'
+      if (lineString === undefined || lineString === null || lineString.match(re1) == null) {
+        return null
+      }
+      var loc = lineString.match(re1).replace('Location:', '').split(',')
+      return {
+        lng: loc[0],
+        lat: loc[1],
+        rawLine: lineString
+      }
     },
     addFile: function (oEvent) {
       var that = this
@@ -55,12 +58,16 @@ export default {
         const promise = new Promise((resolve, reject) => {
           var reader = new FileReader()
           reader.onload = function (e) {
-            var data = e.target.result
-            that.rawFiles.push({
-              data: data,
-              name: oFile.name,
-              lines: data.split(/\r|[\r]/g).length
-            })
+            console.log('file added:', oFile.name)
+            if (!that.dupliccateFile(oFile.name)) {
+              var data = e.target.result
+              that.chunkFiles.push({
+                name: oFile.name,
+                chunk: data
+              })
+            } else {
+              console.log('duplicate file of: ', oFile.name)
+            }
           }
           reader.onerror = function (ex) {
             console.log(ex)
@@ -86,8 +93,33 @@ export default {
 
         })
       })
-    }
+    },
+    dupliccateFile: function (inputname) {
+      for (var i = 0; i < this.chunkFiles.length; i++) {
+        if (this.chunkFiles[i].name === (inputname)) {
+          return true
+        }
+      }
+      return false
+    },
+    addPoints: function (val) {
+      console.log('receive a points..', val)
+      var path = [
+        new AMap.LngLat(116.368904, 39.913423),
+        new AMap.LngLat(116.382122, 39.901176),
+        new AMap.LngLat(116.387271, 39.912501),
+        new AMap.LngLat(116.398258, 39.904600)
+      ]
 
+      var polyline = new AMap.Polyline({
+        path: path,
+        borderWeight: 2, // 线条宽度，默认为 1
+        strokeColor: 'red', // 线条颜色
+        lineJoin: 'round' // 折线拐点连接处样式
+      })
+      window.amap.add(polyline)
+      window.amap.setFitView()
+    }
   },
   computed: {
     currentSelectedDescription: function () {
@@ -97,13 +129,6 @@ export default {
         }
       }
       return 'N/A'
-    },
-    shouldShowFile: function () {
-      if (this.rawFiles.length === 0) {
-        return false
-      } else {
-        return true
-      }
     }
   },
   mounted () {
@@ -118,6 +143,7 @@ export default {
     amap.add(marker) // 添加到地图
     this.$nextTick(function () {
     })
+    window.amap = amap
   },
   beforeMount () {
 
