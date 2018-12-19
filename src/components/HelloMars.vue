@@ -9,7 +9,7 @@
         Description({{selectedFilter}}): {{currentSelectedDescription}}
       </div>
     </div>
-    <FileTray v-bind:files="chunkFiles"  v-on:addPoints="addPoints"></FileTray>
+    <FileTray v-bind:files="chunkFiles"  v-on:togglePolyline="togglePolyline" v-on:toggleMarker="toggleMarker" ></FileTray>
     <div class="row">
       <div class="col-12">
         <div id = "container" style="width: 100%;height: 800px;"></div>
@@ -28,27 +28,31 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Mars App',
-      selectedFilter: 'locationKeywordsFilter',
+      selectedFilter: 'KeywordsFilter',
       pointFilters: [
         {
           name: 'Location keywords',
-          description: 'Filter the location as keywords: Location:*.*,*,*  Sample: Location:126.432432,36.432432543',
-          method: 'locationKeywordsFilter'
+          description: 'Filter location infomation, Sample: PointLocation:126.432432,36.432432543,PointTime:213214432432',
+          method: 'KeywordsFilter'
         }
       ],
       chunkFiles: []
     }
   },
   methods: {
-    locationKeywordsFilter: function (lineString) {
-      var re1 = '/Location:\\d{2,3}\\.\\d{3,15}\\,\\d{2,3}\\.\\d{3,15}/g'
-      if (lineString === undefined || lineString === null || lineString.match(re1) == null) {
+    KeywordsFilter: function (lineString) {
+      var matchedLocationResult = lineString.match(/PointLocation:\d{2,3}\.\d{3,15}\,\d{2,3}\.\d{3,15}/g)
+      var matchedTimeResult = lineString.match(/PointTime:\d{5,15}/g)
+
+      if (lineString === undefined || lineString === null || matchedLocationResult == null || matchedTimeResult == null) {
         return null
       }
-      var loc = lineString.match(re1).replace('Location:', '').split(',')
+      var loc = matchedLocationResult[0].replace('PointLocation:', '').split(',')
+      var tm = matchedTimeResult[0].replace('PointTime:', '')
       return {
         lng: loc[0],
         lat: loc[1],
+        time: tm,
         rawLine: lineString
       }
     },
@@ -66,6 +70,7 @@ export default {
                 chunk: data
               })
             } else {
+              alert('duplicate file: ' + oFile.name)
               console.log('duplicate file of: ', oFile.name)
             }
           }
@@ -102,22 +107,22 @@ export default {
       }
       return false
     },
-    addPoints: function (val) {
-      console.log('receive a points..', val)
-      var path = [
-        new AMap.LngLat(116.368904, 39.913423),
-        new AMap.LngLat(116.382122, 39.901176),
-        new AMap.LngLat(116.387271, 39.912501),
-        new AMap.LngLat(116.398258, 39.904600)
-      ]
-
-      var polyline = new AMap.Polyline({
-        path: path,
-        borderWeight: 2, // 线条宽度，默认为 1
-        strokeColor: 'red', // 线条颜色
-        lineJoin: 'round' // 折线拐点连接处样式
-      })
-      window.amap.add(polyline)
+    togglePolyline: function (val) {
+      console.log('receive a polyline..', val)
+      if (val.action === 'add') {
+        window.amap.add(val.polyline)
+      } else {
+        window.amap.remove(val.polyline)
+      }
+      window.amap.setFitView()
+    },
+    toggleMarker: function (val) {
+      console.log('receive a marker..', val)
+      if (val.action === 'add') {
+        window.amap.add(val.marker)
+      } else {
+        window.amap.remove(val.marker)
+      }
       window.amap.setFitView()
     }
   },
@@ -134,13 +139,9 @@ export default {
   mounted () {
     const amap = new AMap.Map('container', {
       zoom: 11,
-      center: [116.397428, 39.90923], // 中心点坐标
+      center: [126.576617, 43.859237], // 中心点坐标
       viewMode: '3D'// 使用3D视图
     })
-    var marker = new AMap.Marker({
-      position: [116.39, 39.9] // 位置
-    })
-    amap.add(marker) // 添加到地图
     this.$nextTick(function () {
     })
     window.amap = amap

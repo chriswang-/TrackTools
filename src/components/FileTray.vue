@@ -1,7 +1,7 @@
 <template>
   <div class="row">
     <div class="col-12">
-      <File v-if="shouldShowFile" v-for="file in objFiles"  v-bind:key="file.name" v-bind:objFile="file"  v-on:addPoints="addPoints">
+      <File v-if="shouldShowFile" v-for="file in objFiles"  v-bind:key="file.name" v-bind:objFile="file"  v-on:togglePolyline="togglePolyline" v-on:toggleMarker="toggleMarker">
       </File>
     </div>
   </div>
@@ -47,7 +47,7 @@ export default {
           var filter = that.$parent.selectedFilter
           var result = that.$parent[filter](v)
           if (result != null) {
-            points.push()
+            points.push(result)
             validLinesCount++
           }
         })
@@ -65,8 +65,11 @@ export default {
       //   lines: data.split(/\r|[\r]/g).length,
       //   points: that[that.selectedFilter]
     },
-    addPoints: function (val) {
-      this.$emit('addPoints', val)
+    togglePolyline: function (val) {
+      this.$emit('togglePolyline', val)
+    },
+    toggleMarker: function (val) {
+      this.$emit('toggleMarker', val)
     }
   },
   mounted () {
