@@ -76,8 +76,15 @@ export default {
       }
     },
     toggleMarker: function (val) {
-      $('#' + this.id).find('.panel-footer').append("<div class='alert alert-primary'>" + (val.pointData.rawLine) + '</div>')
-      this.$emit('toggleMarker', val)
+      var hintId = val.id + '_hint'
+      var dateRawLine = timeFormat(val.pointData.time) + ':' +  (val.pointData.rawLine)
+      if (val.action === 'add') {
+        $('#' + this.id).find('.panel-footer').append(' <div role="alert" id=' + hintId + ' class="alert-info" style="margin:1px;padding:1px">' + (dateRawLine) + '</div>')
+        this.$emit('toggleMarker', val)
+      } else {
+        $('#' + hintId).remove()
+        this.$emit('toggleMarker', val)
+      }
     }
   },
   computed: {
@@ -89,6 +96,6 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 
 </style>

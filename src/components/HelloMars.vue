@@ -41,14 +41,14 @@ export default {
   },
   methods: {
     KeywordsFilter: function (lineString) {
-      var matchedLocationResult = lineString.match(/PointLocation:\d{2,3}\.\d{3,15}\,\d{2,3}\.\d{3,15}/g)
-      var matchedTimeResult = lineString.match(/PointTime:\d{5,15}/g)
+      var matchedLocationResult = lineString.match(/PointLocation:.*?#/g)
+      var matchedTimeResult = lineString.match(/PointTime:.*?#/g)
 
       if (lineString === undefined || lineString === null || matchedLocationResult == null || matchedTimeResult == null) {
         return null
       }
-      var loc = matchedLocationResult[0].replace('PointLocation:', '').split(',')
-      var tm = matchedTimeResult[0].replace('PointTime:', '')
+      var loc = matchedLocationResult[0].replace('PointLocation:', '').replace('#', '').split(',')
+      var tm = matchedTimeResult[0].replace('PointTime:', '').replace('#', '')
       return {
         lng: loc[0],
         lat: loc[1],

@@ -29,6 +29,7 @@ export default {
           position: [this.pointData.lng, this.pointData.lat] // 位置
         })
         this.$emit('toggleMarker', {
+          id: this.id,
           marker: marker,
           action: 'add',
           pointData: this.pointData
@@ -36,6 +37,7 @@ export default {
         this.amapMarkers = marker
       } else {
         this.$emit('toggleMarker', {
+          id: this.id,
           marker: this.amapMarkers,
           action: 'remove',
           pointData: this.pointData
