@@ -40,10 +40,10 @@ export default {
       this.objFiles = []
       var that = this
       this.files.forEach((value, index) => {
-        var linesCount = value.chunk.split(/\r|[\r]/g).length
+        var linesCount = value.chunk.split(/[\n]/g).length
         var validLinesCount = 0
         var points = []
-        value.chunk.split(/\r|[\r]/g).forEach((v, i) => {
+        value.chunk.split(/[\n]/g).forEach((v, i) => {
           var filter = that.$parent.selectedFilter
           var result = that.$parent[filter](v)
           if (result != null) {

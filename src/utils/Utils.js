@@ -23,7 +23,8 @@ export function timeFormat (time) {
 
 export function uuid (len, radix) {
   var chars = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'.split('')
-  var uuid = [], i
+  var uuid = []
+  var i
   radix = radix || chars.length
   if (len) {
     // Compact form

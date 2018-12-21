@@ -1,8 +1,8 @@
 <template>
   <div v-bind:id="id"  class="panel panel-default"  >
     <div class="panel-heading" >
-      <button v-on:click="toggleContent" class="btn btn-primary">Toggle Points Panel<span class="badge badge-light">{{objFile.validLinesCount}} / {{objFile.linesCount}}</span></Button>
-      <button v-on:click="togglePolyline" class="btn btn-primary">Toggle Polyline</button>{{objFile.name}}
+      <button v-on:click="toggleContent" class="btn btn-primary" v-bind:class="{ active: showPointsPanel }">Toggle Points Panel<span class="badge badge-light">{{objFile.validLinesCount}} / {{objFile.linesCount}}</span></Button>
+      <button v-on:click="togglePolyline" class="btn btn-primary" v-bind:class="{ active: showPolyline }">Toggle Polyline</button>{{objFile.name}}
     </div>
     <div v-if="showPointsPanel" class="panel-body">
         <Point v-bind:pointData="p" v-bind:key="p.rawLine" v-for="p in objFile.points" v-on:toggleMarker="toggleMarker"></Point>
@@ -15,6 +15,7 @@
 import AMap from 'AMap'
 import Point from '@/components/Point'
 import {timeFormat, uuid} from '.././utils/utils.js'
+import $ from 'jquery'
 
 export default {
   name: 'File',
@@ -77,7 +78,7 @@ export default {
     },
     toggleMarker: function (val) {
       var hintId = val.id + '_hint'
-      var dateRawLine = timeFormat(val.pointData.time) + ':' +  (val.pointData.rawLine)
+      var dateRawLine = timeFormat(val.pointData.time) + ':' + (val.pointData.rawLine)
       if (val.action === 'add') {
         $('#' + this.id).find('.panel-footer').append(' <div role="alert" id=' + hintId + ' class="alert-info" style="margin:1px;padding:1px">' + (dateRawLine) + '</div>')
         this.$emit('toggleMarker', val)
