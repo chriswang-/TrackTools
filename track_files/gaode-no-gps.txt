@@ -1,0 +1,169 @@
+<<< log_count = 56 >>>
+[12-25 14:59:42.486 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545721183008# ,__ElapsedRealtimeNanos:0# ,__Location:126.545994,43.839359# ,
+
+[12-25 14:59:45.358 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545721185700# ,__ElapsedRealtimeNanos:0# ,__Location:126.545983,43.839363# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:2692# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:00:23.373 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545721223845# ,__ElapsedRealtimeNanos:0# ,__Location:126.546301,43.839399# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:38145# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:00:39.477 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:40.0# ,__Time:1545721239898# ,__ElapsedRealtimeNanos:0# ,__Location:126.546739,43.839032# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:16053# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:01:03.415 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545721263855# ,__ElapsedRealtimeNanos:0# ,__Location:126.546959,43.838785# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:23957# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:01:17.432 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:33.0# ,__Time:1545721277887# ,__ElapsedRealtimeNanos:0# ,__Location:126.547009,43.838509# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:14032# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:01:39.455 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:41.0# ,__Time:1545721299906# ,__ElapsedRealtimeNanos:0# ,__Location:126.548096,43.83863# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:22019# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:02:01.355 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:58.0# ,__Time:1545721321827# ,__ElapsedRealtimeNanos:0# ,__Location:126.549412,43.838951# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:21921# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:02:15.454 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:69.0# ,__Time:1545721335919# ,__ElapsedRealtimeNanos:0# ,__Location:126.549248,43.838963# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:14092# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:02:23.436 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:94.0# ,__Time:1545721343904# ,__ElapsedRealtimeNanos:0# ,__Location:126.550997,43.839417# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:7985# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:02:47.510 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:48.0# ,__Time:1545721367970# ,__ElapsedRealtimeNanos:0# ,__Location:126.552335,43.839669# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:24066# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:03:09.563 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545721389997# ,__ElapsedRealtimeNanos:0# ,__Location:126.552938,43.83986# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:22027# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:03:39.803 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:39.0# ,__Time:1545721420246# ,__ElapsedRealtimeNanos:0# ,__Location:126.55367,43.839964# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:30249# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:04:01.676 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:60.0# ,__Time:1545721442133# ,__ElapsedRealtimeNanos:0# ,__Location:126.555628,43.839993# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:21887# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:04:09.753 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:45.0# ,__Time:1545721450175# ,__ElapsedRealtimeNanos:0# ,__Location:126.556003,43.840096# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:8042# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:04:31.829 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:75.0# ,__Time:1545721472115# ,__ElapsedRealtimeNanos:0# ,__Location:126.556605,43.840121# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:21940# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:04:47.829 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:100.0# ,__Time:1545721488251# ,__ElapsedRealtimeNanos:0# ,__Location:126.55798,43.840602# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:16136# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:05:09.747 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:60.0# ,__Time:1545721510206# ,__ElapsedRealtimeNanos:0# ,__Location:126.561231,43.842302# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:21955# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:05:31.771 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:33.0# ,__Time:1545721532200# ,__ElapsedRealtimeNanos:0# ,__Location:126.561698,43.84254# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:21994# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:05:53.794 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:73.0# ,__Time:1545721554209# ,__ElapsedRealtimeNanos:0# ,__Location:126.562827,43.843015# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:22009# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:06:15.787 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:53.0# ,__Time:1545721576249# ,__ElapsedRealtimeNanos:0# ,__Location:126.562905,43.843134# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:22040# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:06:45.808 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:66.0# ,__Time:1545721606285# ,__ElapsedRealtimeNanos:0# ,__Location:126.563045,43.843125# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:30036# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:07:07.927 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:63.0# ,__Time:1545721628369# ,__ElapsedRealtimeNanos:0# ,__Location:126.562911,43.843148# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:22084# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:07:39.932 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:40.0# ,__Time:1545721660366# ,__ElapsedRealtimeNanos:0# ,__Location:126.562886,43.84395# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:31997# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:07:59.897 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:52.0# ,__Time:1545721680376# ,__ElapsedRealtimeNanos:0# ,__Location:126.562648,43.844238# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:20010# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:08:14.558 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:100.0# ,__Time:1545721696369# ,__ElapsedRealtimeNanos:0# ,__Location:126.562385,43.845072# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:15993# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:08:30.672 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:100.0# ,__Time:1545721712474# ,__ElapsedRealtimeNanos:0# ,__Location:126.563499,43.845127# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:16105# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:08:43.370 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:96.0# ,__Time:1545721725156# ,__ElapsedRealtimeNanos:0# ,__Location:126.563332,43.845132# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:12682# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:08:52.769 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:63.0# ,__Time:1545721734575# ,__ElapsedRealtimeNanos:0# ,__Location:126.565483,43.845218# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:9419# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:09:14.927 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:66.0# ,__Time:1545721756651# ,__ElapsedRealtimeNanos:0# ,__Location:126.567377,43.845328# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:22076# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:09:31.558 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:61.0# ,__Time:1545721772677# ,__ElapsedRealtimeNanos:0# ,__Location:126.567956,43.845377# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:16026# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:09:39.356 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:67.0# ,__Time:1545721780602# ,__ElapsedRealtimeNanos:0# ,__Location:126.569375,43.845411# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:7925# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:10:01.388 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:67.0# ,__Time:1545721802606# ,__ElapsedRealtimeNanos:0# ,__Location:126.569359,43.845564# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:22004# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:10:23.425 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:41.0# ,__Time:1545721824629# ,__ElapsedRealtimeNanos:0# ,__Location:126.57205,43.845595# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:22023# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:10:52.617 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:41.0# ,__Time:1545721854676# ,__ElapsedRealtimeNanos:0# ,__Location:126.57238,43.845546# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:30047# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:11:22.712 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:48.0# ,__Time:1545721884793# ,__ElapsedRealtimeNanos:0# ,__Location:126.572753,43.845553# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:30117# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:11:47.014 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:47.0# ,__Time:1545721907298# ,__ElapsedRealtimeNanos:0# ,__Location:126.573252,43.84556# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:22505# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:12:26.619 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:39.0# ,__Time:1545721946836# ,__ElapsedRealtimeNanos:0# ,__Location:126.573615,43.845568# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:39538# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:12:46.561 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:64.0# ,__Time:1545721966794# ,__ElapsedRealtimeNanos:0# ,__Location:126.574518,43.845601# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:19958# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:12:58.568 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:52.0# ,__Time:1545721978842# ,__ElapsedRealtimeNanos:0# ,__Location:126.575648,43.845749# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:12048# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:13:02.551 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:59.0# ,__Time:1545721982814# ,__ElapsedRealtimeNanos:0# ,__Location:126.576549,43.845747# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:3972# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:13:24.577 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:78.0# ,__Time:1545722004846# ,__ElapsedRealtimeNanos:0# ,__Location:126.579713,43.845855# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:22032# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:13:34.637 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:78.0# ,__Time:1545722014905# ,__ElapsedRealtimeNanos:0# ,__Location:126.579916,43.845861# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:10059# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:13:46.629 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:70.0# ,__Time:1545722026903# ,__ElapsedRealtimeNanos:0# ,__Location:126.580196,43.846018# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:11998# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:14:02.748 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:64.0# ,__Time:1545722043014# ,__ElapsedRealtimeNanos:0# ,__Location:126.58266,43.846523# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:16111# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:14:10.679 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:63.0# ,__Time:1545722050939# ,__ElapsedRealtimeNanos:0# ,__Location:126.583057,43.846668# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:7925# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:14:24.602 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:46.0# ,__Time:1545722064874# ,__ElapsedRealtimeNanos:0# ,__Location:126.582861,43.846737# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:13935# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:14:54.714 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:35.0# ,__Time:1545722094973# ,__ElapsedRealtimeNanos:0# ,__Location:126.583293,43.846898# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:30099# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:15:19.716 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:100.0# ,__Time:1545722120360# ,__ElapsedRealtimeNanos:0# ,__Location:126.5864,43.848735# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:25387# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:15:38.571 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:71.0# ,__Time:1545722139221# ,__ElapsedRealtimeNanos:0# ,__Location:126.586849,43.849405# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:18861# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:15:45.846 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:71.0# ,__Time:1545722146499# ,__ElapsedRealtimeNanos:0# ,__Location:126.586849,43.849405# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:7278# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:15:48.411 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:41.0# ,__Time:1545722149044# ,__ElapsedRealtimeNanos:0# ,__Location:126.586036,43.850198# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:2545# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:16:01.431 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:57.0# ,__Time:1545722163070# ,__ElapsedRealtimeNanos:0# ,__Location:126.586387,43.851029# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:14026# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:16:05.452 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:57.0# ,__Time:1545722167103# ,__ElapsedRealtimeNanos:0# ,__Location:126.586387,43.851029# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:4033# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:16:35.426 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:45.0# ,__Time:1545722197048# ,__ElapsedRealtimeNanos:0# ,__Location:126.587069,43.851885# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:29945# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+
+[12-25 15:17:05.480 2415:2415 I/gaodesdk:]
+__Provider:lbs# ,__Satellies:0# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545722227133# ,__ElapsedRealtimeNanos:0# ,__Location:126.587229,43.851997# ,# ,__DifLocation:0.0# ,__DifSpeed:0.0# ,__DifBearing:0.0# ,__DifTime:30085# ,__DiffElapsedRealtimeNanos:0# ,__CalcSpeedPerHour:0.0
+

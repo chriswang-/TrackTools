@@ -1,0 +1,220 @@
+<<< log_count = 73 >>>
+[12-25 14:59:42.017 2415:2415 I/androidsdk:]
+__Provider:network-init# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545721141438# ,__ElapsedRealtimeNanos:26835221145813# ,__Location:126.54604153367484,43.8393813048451# ,
+
+[12-25 14:59:42.284 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545721182275# ,__ElapsedRealtimeNanos:26876057792881# ,__Location:126.54597874106462,43.839365461288956# ,# ,__DifLocation:5.369617# ,__DifSpeed:0.0# ,__DifBearing:70.66595# ,__DifTime:40837# ,__DiffElapsedRealtimeNanos:40836647068# ,__CalcSpeedPerHour:0.4832655
+
+[12-25 14:59:52.771 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545721192763# ,__ElapsedRealtimeNanos:26886546195585# ,__Location:126.54604153367484,43.8393813048451# ,# ,__DifLocation:5.369617# ,__DifSpeed:0.0# ,__DifBearing:-109.334# ,__DifTime:10488# ,__DiffElapsedRealtimeNanos:10488402704# ,__CalcSpeedPerHour:1.933062
+
+[12-25 15:00:25.847 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545721225830# ,__ElapsedRealtimeNanos:26919613281510# ,__Location:126.54638638487029,43.83938049593211# ,# ,__DifLocation:27.827156# ,__DifSpeed:0.0# ,__DifBearing:-89.99988# ,__DifTime:33067# ,__DiffElapsedRealtimeNanos:33067085925# ,__CalcSpeedPerHour:3.0356898
+
+[12-25 15:00:37.856 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:31.0# ,__Time:1545721237834# ,__ElapsedRealtimeNanos:26931617028120# ,__Location:126.54674613558052,43.83899686556372# ,# ,__DifLocation:51.51563# ,__DifSpeed:0.0# ,__DifBearing:-34.304222# ,__DifTime:12004# ,__DiffElapsedRealtimeNanos:12003746610# ,__CalcSpeedPerHour:15.454689
+
+[12-25 15:00:52.901 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545721252884# ,__ElapsedRealtimeNanos:26946666459052# ,__Location:126.54693747361664,43.838793531517354# ,# ,__DifLocation:27.334646# ,__DifSpeed:0.0# ,__DifBearing:-34.3964# ,__DifTime:15050# ,__DiffElapsedRealtimeNanos:15049430932# ,__CalcSpeedPerHour:6.560315
+
+[12-25 15:01:15.509 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545721275484# ,__ElapsedRealtimeNanos:26969266387949# ,__Location:126.54702313983545,43.838445522888904# ,# ,__DifLocation:39.279713# ,__DifSpeed:0.0# ,__DifBearing:-10.141916# ,__DifTime:22600# ,__DiffElapsedRealtimeNanos:22599928897# ,__CalcSpeedPerHour:6.4275894
+
+[12-25 15:01:23.326 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:36.0# ,__Time:1545721283303# ,__ElapsedRealtimeNanos:26977085847426# ,__Location:126.54744077307859,43.83848053687686# ,# ,__DifLocation:33.935276# ,__DifSpeed:0.0# ,__DifBearing:-96.769# ,__DifTime:7819# ,__DiffElapsedRealtimeNanos:7819459477# ,__CalcSpeedPerHour:17.452427
+
+[12-25 15:01:38.316 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:38.0# ,__Time:1545721298300# ,__ElapsedRealtimeNanos:26992083223826# ,__Location:126.54791325005975,43.83861237760598# ,# ,__DifLocation:40.886074# ,__DifSpeed:0.0# ,__DifBearing:-111.18795# ,__DifTime:14997# ,__DiffElapsedRealtimeNanos:14997376400# ,__CalcSpeedPerHour:10.513561
+
+[12-25 15:01:53.399 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:61.0# ,__Time:1545721313383# ,__ElapsedRealtimeNanos:27007165960695# ,__Location:126.5489359781859,43.838826931520394# ,# ,__DifLocation:85.967575# ,__DifSpeed:0.0# ,__DifBearing:-106.287445# ,__DifTime:15083# ,__DiffElapsedRealtimeNanos:15082736869# ,__CalcSpeedPerHour:20.63222
+
+[12-25 15:02:08.194 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:59.0# ,__Time:1545721328180# ,__ElapsedRealtimeNanos:27021963115429# ,__Location:126.55006942086989,43.839142218059344# ,# ,__DifLocation:98.03282# ,__DifSpeed:0.0# ,__DifBearing:-111.125404# ,__DifTime:14797# ,__DiffElapsedRealtimeNanos:14797154734# ,__CalcSpeedPerHour:25.20844
+
+[12-25 15:02:15.599 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:64.0# ,__Time:1545721335582# ,__ElapsedRealtimeNanos:27029365145010# ,__Location:126.55057086634905,43.839280032082456# ,# ,__DifLocation:43.30186# ,__DifSpeed:0.0# ,__DifBearing:-110.89521# ,__DifTime:7402# ,__DiffElapsedRealtimeNanos:7402029581# ,__CalcSpeedPerHour:22.26953
+
+[12-25 15:02:30.740 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:73.0# ,__Time:1545721350720# ,__ElapsedRealtimeNanos:27044503308285# ,__Location:126.55231055397925,43.839665034302996# ,# ,__DifLocation:146.84666# ,__DifSpeed:0.0# ,__DifBearing:-107.116776# ,__DifTime:15138# ,__DiffElapsedRealtimeNanos:15138163275# ,__CalcSpeedPerHour:35.2432
+
+[12-25 15:02:53.178 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:87.0# ,__Time:1545721373165# ,__ElapsedRealtimeNanos:27066948185308# ,__Location:126.55239830194976,43.83976579084067# ,# ,__DifLocation:13.267367# ,__DifSpeed:0.0# ,__DifBearing:-147.76158# ,__DifTime:22445# ,__DiffElapsedRealtimeNanos:22444877023# ,__CalcSpeedPerHour:2.1710236
+
+[12-25 15:03:15.480 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545721395470# ,__ElapsedRealtimeNanos:27089252679779# ,__Location:126.55286191461562,43.83987673978899# ,# ,__DifLocation:39.413578# ,__DifSpeed:0.0# ,__DifBearing:-108.40498# ,__DifTime:22305# ,__DiffElapsedRealtimeNanos:22304494471# ,__CalcSpeedPerHour:6.449495
+
+[12-25 15:03:37.791 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:35.0# ,__Time:1545721417780# ,__ElapsedRealtimeNanos:27111562640551# ,__Location:126.55318893570013,43.83990902808802# ,# ,__DifLocation:26.63287# ,__DifSpeed:0.0# ,__DifBearing:-97.91304# ,__DifTime:22310# ,__DiffElapsedRealtimeNanos:22309960772# ,__CalcSpeedPerHour:4.358106
+
+[12-25 15:03:53.196 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:60.0# ,__Time:1545721433185# ,__ElapsedRealtimeNanos:27126967999868# ,__Location:126.55475331737216,43.8399947132792# ,# ,__DifLocation:126.57294# ,__DifSpeed:0.0# ,__DifBearing:-94.48035# ,__DifTime:15405# ,__DiffElapsedRealtimeNanos:15405359317# ,__CalcSpeedPerHour:30.377506
+
+[12-25 15:04:08.352 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:97.0# ,__Time:1545721448332# ,__ElapsedRealtimeNanos:27142115272154# ,__Location:126.55597181181759,43.84009417406063# ,# ,__DifLocation:98.929886# ,__DifSpeed:0.0# ,__DifBearing:-96.57766# ,__DifTime:15147# ,__DiffElapsedRealtimeNanos:15147272286# ,__CalcSpeedPerHour:23.743174
+
+[12-25 15:04:23.439 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:51.0# ,__Time:1545721463420# ,__ElapsedRealtimeNanos:27157202805430# ,__Location:126.55661997249248,43.84010586792739# ,# ,__DifLocation:52.295753# ,__DifSpeed:0.0# ,__DifBearing:-91.5825# ,__DifTime:15088# ,__DiffElapsedRealtimeNanos:15087533276# ,__CalcSpeedPerHour:12.5509815
+
+[12-25 15:04:38.355 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:100.0# ,__Time:1545721478343# ,__ElapsedRealtimeNanos:27172125503653# ,__Location:126.55790345565781,43.84053710347123# ,# ,__DifLocation:114.18725# ,__DifSpeed:0.0# ,__DifBearing:-114.97947# ,__DifTime:14923# ,__DiffElapsedRealtimeNanos:14922698223# ,__CalcSpeedPerHour:29.362436
+
+[12-25 15:04:45.839 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:100.0# ,__Time:1545721485820# ,__ElapsedRealtimeNanos:27179602748859# ,__Location:126.55972967720693,43.84165100145708# ,# ,__DifLocation:192.65117# ,__DifSpeed:0.0# ,__DifBearing:-130.14946# ,__DifTime:7477# ,__DiffElapsedRealtimeNanos:7477245206# ,__CalcSpeedPerHour:99.07774
+
+[12-25 15:05:08.353 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:100.0# ,__Time:1545721508336# ,__ElapsedRealtimeNanos:27202118613954# ,__Location:126.56088771442263,43.84217556560534# ,# ,__DifLocation:110.21137# ,__DifSpeed:0.0# ,__DifBearing:-122.092445# ,__DifTime:22516# ,__DiffElapsedRealtimeNanos:22515865095# ,__CalcSpeedPerHour:18.034588
+
+[12-25 15:05:23.218 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545721523205# ,__ElapsedRealtimeNanos:27216987397594# ,__Location:126.56168670494547,43.84247994673683# ,# ,__DifLocation:72.83933# ,__DifSpeed:0.0# ,__DifBearing:-117.824715# ,__DifTime:14869# ,__DiffElapsedRealtimeNanos:14868783640# ,__CalcSpeedPerHour:18.730114
+
+[12-25 15:05:30.638 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:37.0# ,__Time:1545721530619# ,__ElapsedRealtimeNanos:27224402342123# ,__Location:126.56170866088269,43.84256086271248# ,# ,__DifLocation:9.172099# ,__DifSpeed:0.0# ,__DifBearing:-168.87813# ,__DifTime:7414# ,__DiffElapsedRealtimeNanos:7414944529# ,__CalcSpeedPerHour:4.7170796
+
+[12-25 15:05:45.437 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:100.0# ,__Time:1545721545425# ,__ElapsedRealtimeNanos:27239208255607# ,__Location:126.56264635615501,43.842965968991955# ,# ,__DifLocation:88.08888# ,__DifSpeed:0.0# ,__DifBearing:-120.88766# ,__DifTime:14806# ,__DiffElapsedRealtimeNanos:14805913484# ,__CalcSpeedPerHour:22.651428
+
+[12-25 15:06:07.388 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:65.0# ,__Time:1545721567363# ,__ElapsedRealtimeNanos:27261145708776# ,__Location:126.56287880202687,43.843131469086316# ,# ,__DifLocation:26.292503# ,__DifSpeed:0.0# ,__DifBearing:-134.54716# ,__DifTime:21938# ,__DiffElapsedRealtimeNanos:21937453169# ,__CalcSpeedPerHour:4.507286
+
+[12-25 15:06:32.163 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:100.0# ,__Time:1545721592153# ,__ElapsedRealtimeNanos:27285935414183# ,__Location:126.56305337002529,43.84313416195743# ,# ,__DifLocation:14.077485# ,__DifSpeed:0.0# ,__DifBearing:-91.35672# ,__DifTime:24790# ,__DiffElapsedRealtimeNanos:24789705407# ,__CalcSpeedPerHour:2.1116228
+
+[12-25 15:06:52.902 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:70.0# ,__Time:1545721612881# ,__ElapsedRealtimeNanos:27306663574227# ,__Location:126.56291371452308,43.84312541119542# ,# ,__DifLocation:11.303152# ,__DifSpeed:0.0# ,__DifBearing:84.9244# ,__DifTime:20728# ,__DiffElapsedRealtimeNanos:20728160044# ,__CalcSpeedPerHour:2.0345674
+
+[12-25 15:07:25.191 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:62.0# ,__Time:1545721645173# ,__ElapsedRealtimeNanos:27338956177496# ,__Location:126.56303940924109,43.84316616874572# ,# ,__DifLocation:11.109858# ,__DifSpeed:0.0# ,__DifBearing:-114.20724# ,__DifTime:32292# ,__DiffElapsedRealtimeNanos:32292603269# ,__CalcSpeedPerHour:1.249859
+
+[12-25 15:07:42.635 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:36.0# ,__Time:1545721662616# ,__ElapsedRealtimeNanos:27356398796968# ,__Location:126.56287592787393,43.84394002902938# ,# ,__DifLocation:87.00393# ,__DifSpeed:0.0# ,__DifBearing:171.28093# ,__DifTime:17443# ,__DiffElapsedRealtimeNanos:17442619472# ,__CalcSpeedPerHour:18.424362
+
+[12-25 15:07:56.179 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:37.0# ,__Time:1545721676161# ,__ElapsedRealtimeNanos:27369943862119# ,__Location:126.56267445482662,43.84411528677176# ,# ,__DifLocation:25.336958# ,__DifSpeed:0.0# ,__DifBearing:140.12276# ,__DifTime:13545# ,__DiffElapsedRealtimeNanos:13545065151# ,__CalcSpeedPerHour:7.0163884
+
+[12-25 15:08:08.578 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:73.0# ,__Time:1545721688561# ,__ElapsedRealtimeNanos:27382344057636# ,__Location:126.56215783782,43.844709874862865# ,# ,__DifLocation:78.04572# ,__DifSpeed:0.0# ,__DifBearing:147.74075# ,__DifTime:12400# ,__DiffElapsedRealtimeNanos:12400195517# ,__CalcSpeedPerHour:23.413717
+
+[12-25 15:08:21.444 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:100.0# ,__Time:1545721701423# ,__ElapsedRealtimeNanos:27396560277264# ,__Location:126.56260875878489,43.84506887703029# ,# ,__DifLocation:54.047985# ,__DifSpeed:0.0# ,__DifBearing:-137.73724# ,__DifTime:12862# ,__DiffElapsedRealtimeNanos:14216219628# ,__CalcSpeedPerHour:13.898054
+
+[12-25 15:08:37.879 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:100.0# ,__Time:1545721717870# ,__ElapsedRealtimeNanos:27413007433091# ,__Location:126.56319136365616,43.84541066689417# ,# ,__DifLocation:60.481403# ,__DifSpeed:0.0# ,__DifBearing:-129.05867# ,__DifTime:16447# ,__DiffElapsedRealtimeNanos:16447155827# ,__CalcSpeedPerHour:13.608315
+
+[12-25 15:08:44.391 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:100.0# ,__Time:1545721724367# ,__ElapsedRealtimeNanos:27419504297724# ,__Location:126.564923154254,43.84522581200367# ,# ,__DifLocation:141.06137# ,__DifSpeed:0.0# ,__DifBearing:-81.757355# ,__DifTime:6497# ,__DiffElapsedRealtimeNanos:6496864633# ,__CalcSpeedPerHour:84.636826
+
+[12-25 15:08:55.045 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:57.0# ,__Time:1545721735035# ,__ElapsedRealtimeNanos:27430172429283# ,__Location:126.565470863841,43.845201915118224# ,# ,__DifLocation:44.22306# ,__DifSpeed:0.0# ,__DifBearing:-86.68702# ,__DifTime:10668# ,__DiffElapsedRealtimeNanos:10668131559# ,__CalcSpeedPerHour:15.920301
+
+[12-25 15:09:06.928 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:94.0# ,__Time:1545721746911# ,__ElapsedRealtimeNanos:27442047782195# ,__Location:126.5666581489805,43.84530492736463# ,# ,__DifLocation:96.40517# ,__DifSpeed:0.0# ,__DifBearing:-96.950264# ,__DifTime:11876# ,__DiffElapsedRealtimeNanos:11875352912# ,__CalcSpeedPerHour:31.550781
+
+[12-25 15:09:23.167 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:35.0# ,__Time:1545721763150# ,__ElapsedRealtimeNanos:27457707717448# ,__Location:126.56739151479483,43.84537972222428# ,# ,__DifLocation:59.70682# ,__DifSpeed:0.0# ,__DifBearing:-98.13031# ,__DifTime:16239# ,__DiffElapsedRealtimeNanos:15659935253# ,__CalcSpeedPerHour:14.329637
+
+[12-25 15:09:37.284 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:66.0# ,__Time:1545721777270# ,__ElapsedRealtimeNanos:27471826979265# ,__Location:126.56933730676613,43.84540172989147# ,# ,__DifLocation:156.83809# ,__DifSpeed:0.0# ,__DifBearing:-91.01414# ,__DifTime:14120# ,__DiffElapsedRealtimeNanos:14119261817# ,__CalcSpeedPerHour:40.329792
+
+[12-25 15:09:52.428 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:45.0# ,__Time:1545721792417# ,__ElapsedRealtimeNanos:27486974869780# ,__Location:126.56925051005997,43.845539783288835# ,# ,__DifLocation:16.853811# ,__DifSpeed:0.0# ,__DifBearing:155.47336# ,__DifTime:15147# ,__DiffElapsedRealtimeNanos:15147890515# ,__CalcSpeedPerHour:4.0449147
+
+[12-25 15:10:15.111 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:43.0# ,__Time:1545721815100# ,__ElapsedRealtimeNanos:27509657350292# ,__Location:126.57182228311545,43.84557705794809# ,# ,__DifLocation:207.28452# ,__DifSpeed:0.0# ,__DifBearing:-91.2584# ,__DifTime:22683# ,__DiffElapsedRealtimeNanos:22682480512# ,__CalcSpeedPerHour:33.919285
+
+[12-25 15:10:30.210 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:59.0# ,__Time:1545721830199# ,__ElapsedRealtimeNanos:27524756852526# ,__Location:126.57236422595511,43.84553933386046# ,# ,__DifLocation:43.85949# ,__DifSpeed:0.0# ,__DifBearing:-84.62147# ,__DifTime:15099# ,__DiffElapsedRealtimeNanos:15099502234# ,__CalcSpeedPerHour:10.526278
+
+[12-25 15:10:51.289 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:44.0# ,__Time:1545721851271# ,__ElapsedRealtimeNanos:27546682668559# ,__Location:126.57240714372097,43.84554127433464# ,# ,__DifLocation:3.4650621# ,__DifSpeed:0.0# ,__DifBearing:-93.676956# ,__DifTime:21072# ,__DiffElapsedRealtimeNanos:21925816033# ,__CalcSpeedPerHour:0.5940106
+
+[12-25 15:11:13.691 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:43.0# ,__Time:1545721873678# ,__ElapsedRealtimeNanos:27569089472040# ,__Location:126.57250295812788,43.8455291508084# ,# ,__DifLocation:7.8343196# ,__DifSpeed:0.0# ,__DifBearing:-80.201195# ,__DifTime:22407# ,__DiffElapsedRealtimeNanos:22406803481# ,__CalcSpeedPerHour:1.2819796
+
+[12-25 15:11:28.628 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:53.0# ,__Time:1545721888617# ,__ElapsedRealtimeNanos:27584028440524# ,__Location:126.57338130205378,43.845548964495826# ,# ,__DifLocation:70.80538# ,__DifSpeed:0.0# ,__DifBearing:-91.88814# ,__DifTime:14939# ,__DiffElapsedRealtimeNanos:14938968484# ,__CalcSpeedPerHour:18.207098
+
+[12-25 15:11:52.529 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:49.0# ,__Time:1545721912492# ,__ElapsedRealtimeNanos:27606084829838# ,__Location:126.57324655513011,43.84556013649378# ,# ,__DifLocation:10.924868# ,__DifSpeed:0.0# ,__DifBearing:96.42327# ,__DifTime:23875# ,__DiffElapsedRealtimeNanos:22056389314# ,__CalcSpeedPerHour:1.7877055
+
+[12-25 15:12:27.541 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:33.0# ,__Time:1545721947523# ,__ElapsedRealtimeNanos:27641115670866# ,__Location:126.57294514608121,43.84572744549802# ,# ,__DifLocation:30.56306# ,__DifSpeed:0.0# ,__DifBearing:127.38095# ,__DifTime:35031# ,__DiffElapsedRealtimeNanos:35030841028# ,__CalcSpeedPerHour:3.1436288
+
+[12-25 15:12:45.750 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:52.0# ,__Time:1545721965739# ,__ElapsedRealtimeNanos:27659331769036# ,__Location:126.57454720085049,43.84573935053468# ,# ,__DifLocation:129.07817# ,__DifSpeed:0.0# ,__DifBearing:-90.68993# ,__DifTime:18216# ,__DiffElapsedRealtimeNanos:18216098170# ,__CalcSpeedPerHour:25.815636
+
+[12-25 15:12:56.594 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:61.0# ,__Time:1545721976576# ,__ElapsedRealtimeNanos:27670168949449# ,__Location:126.57548754700298,43.84575516770455# ,# ,__DifLocation:75.776054# ,__DifSpeed:0.0# ,__DifBearing:-91.428024# ,__DifTime:10837# ,__DiffElapsedRealtimeNanos:10837180413# ,__CalcSpeedPerHour:27.279379
+
+[12-25 15:13:15.910 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:79.0# ,__Time:1545721995893# ,__ElapsedRealtimeNanos:27689486000743# ,__Location:126.57855653345408,43.84581856953909# ,# ,__DifLocation:247.31276# ,__DifSpeed:0.0# ,__DifBearing:-91.72385# ,__DifTime:19317# ,__DiffElapsedRealtimeNanos:19317051294# ,__CalcSpeedPerHour:46.85926
+
+[12-25 15:13:31.134 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:66.0# ,__Time:1545722011116# ,__ElapsedRealtimeNanos:27704708996623# ,__Location:126.57988554687648,43.84585613446127# ,# ,__DifLocation:107.12211# ,__DifSpeed:0.0# ,__DifBearing:-92.31788# ,__DifTime:15223# ,__DiffElapsedRealtimeNanos:15222995880# ,__CalcSpeedPerHour:25.709305
+
+[12-25 15:13:41.913 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:68.0# ,__Time:1545722021902# ,__ElapsedRealtimeNanos:27715494562244# ,__Location:126.58014618995111,43.84599778804401# ,# ,__DifLocation:26.25747# ,__DifSpeed:0.0# ,__DifBearing:-126.93263# ,__DifTime:10786# ,__DiffElapsedRealtimeNanos:10785565621# ,__CalcSpeedPerHour:9.452689
+
+[12-25 15:14:01.503 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:57.0# ,__Time:1545722041483# ,__ElapsedRealtimeNanos:27735075851195# ,__Location:126.58279367356478,43.84651594894143# ,# ,__DifLocation:220.90248# ,__DifSpeed:0.0# ,__DifBearing:-105.190926# ,__DifTime:19581# ,__DiffElapsedRealtimeNanos:19581288951# ,__CalcSpeedPerHour:41.855206
+
+[12-25 15:14:09.220 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:63.0# ,__Time:1545722049202# ,__ElapsedRealtimeNanos:27742794741608# ,__Location:126.5828416228215,43.846585866953134# ,# ,__DifLocation:8.6827965# ,__DifSpeed:0.0# ,__DifBearing:-153.60535# ,__DifTime:7719# ,__DiffElapsedRealtimeNanos:7718890413# ,__CalcSpeedPerHour:4.465438
+
+[12-25 15:14:12.297 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:57.0# ,__Time:1545722052278# ,__ElapsedRealtimeNanos:27745870825826# ,__Location:126.58279367356478,43.84651594894143# ,# ,__DifLocation:8.6827965# ,__DifSpeed:0.0# ,__DifBearing:26.394617# ,__DifTime:3076# ,__DiffElapsedRealtimeNanos:3076084218# ,__CalcSpeedPerHour:10.419355
+
+[12-25 15:14:24.120 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:50.0# ,__Time:1545722064104# ,__ElapsedRealtimeNanos:27757696521551# ,__Location:126.58285462908333,43.84674176904644# ,# ,__DifLocation:25.585321# ,__DifSpeed:0.0# ,__DifBearing:-168.9465# ,__DifTime:11826# ,__DiffElapsedRealtimeNanos:11825695725# ,__CalcSpeedPerHour:8.373378
+
+[12-25 15:14:31.053 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:50.0# ,__Time:1545722071034# ,__ElapsedRealtimeNanos:27764626615038# ,__Location:126.58323516041983,43.84680739260777# ,# ,__DifLocation:31.5036# ,__DifSpeed:0.0# ,__DifBearing:-103.46029# ,__DifTime:6930# ,__DiffElapsedRealtimeNanos:6930093487# ,__CalcSpeedPerHour:18.90216
+
+[12-25 15:14:34.110 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:50.0# ,__Time:1545722074101# ,__ElapsedRealtimeNanos:27767694191130# ,__Location:126.58285462908333,43.84674176904644# ,# ,__DifLocation:31.5036# ,__DifSpeed:0.0# ,__DifBearing:76.539444# ,__DifTime:3067# ,__DiffElapsedRealtimeNanos:3067576092# ,__CalcSpeedPerHour:37.80432
+
+[12-25 15:14:46.402 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:36.0# ,__Time:1545722086383# ,__ElapsedRealtimeNanos:27779975756698# ,__Location:126.58345189868747,43.84685217700356# ,# ,__DifLocation:49.644665# ,__DifSpeed:0.0# ,__DifBearing:-104.3843# ,__DifTime:12282# ,__DiffElapsedRealtimeNanos:12281565568# ,__CalcSpeedPerHour:14.893399
+
+[12-25 15:15:01.157 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:65.0# ,__Time:1545722101143# ,__ElapsedRealtimeNanos:27794735717943# ,__Location:126.58335204746564,43.84702716791711# ,# ,__DifLocation:21.041372# ,__DifSpeed:0.0# ,__DifBearing:157.53143# ,__DifTime:14760# ,__DiffElapsedRealtimeNanos:14759961245# ,__CalcSpeedPerHour:5.410639
+
+[12-25 15:15:19.591 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:88.0# ,__Time:1545722119575# ,__ElapsedRealtimeNanos:27813535553091# ,__Location:126.58640381850824,43.84873674469617# ,# ,__DifLocation:310.7675# ,__DifSpeed:0.0# ,__DifBearing:-127.765945# ,__DifTime:18432# ,__DiffElapsedRealtimeNanos:18799835148# ,__CalcSpeedPerHour:62.153496
+
+[12-25 15:15:38.468 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:67.0# ,__Time:1545722138457# ,__ElapsedRealtimeNanos:27832417138084# ,__Location:126.58666563939823,43.849364203916664# ,# ,__DifLocation:72.88783# ,__DifSpeed:0.0# ,__DifBearing:-163.199# ,__DifTime:18882# ,__DiffElapsedRealtimeNanos:18881584993# ,__CalcSpeedPerHour:14.577566
+
+[12-25 15:15:45.877 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:64.0# ,__Time:1545722145862# ,__ElapsedRealtimeNanos:27839822452092# ,__Location:126.5866276888727,43.84943619178115# ,# ,__DifLocation:8.563577# ,__DifSpeed:0.0# ,__DifBearing:159.09502# ,__DifTime:7405# ,__DiffElapsedRealtimeNanos:7405314008# ,__CalcSpeedPerHour:4.404125
+
+[12-25 15:15:53.450 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:37.0# ,__Time:1545722153439# ,__ElapsedRealtimeNanos:27847399176828# ,__Location:126.5861003623329,43.850275119098# ,# ,__DifLocation:102.433876# ,__DifSpeed:0.0# ,__DifBearing:155.51306# ,__DifTime:7577# ,__DiffElapsedRealtimeNanos:7576724736# ,__CalcSpeedPerHour:52.68028
+
+[12-25 15:15:59.861 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:50.0# ,__Time:1545722159845# ,__ElapsedRealtimeNanos:27854811924169# ,__Location:126.58615634471737,43.85056091814115# ,# ,__DifLocation:32.094715# ,__DifSpeed:0.0# ,__DifBearing:-171.9346# ,__DifTime:6406# ,__DiffElapsedRealtimeNanos:7412747341# ,__CalcSpeedPerHour:16.505854
+
+[12-25 15:16:10.538 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:50.0# ,__Time:1545722170515# ,__ElapsedRealtimeNanos:27865482188748# ,__Location:126.58635220461737,43.851012520470825# ,# ,__DifLocation:52.636272# ,__DifSpeed:0.0# ,__DifBearing:-162.57718# ,__DifTime:10670# ,__DiffElapsedRealtimeNanos:10670264579# ,__CalcSpeedPerHour:18.949057
+
+[12-25 15:16:14.898 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:49.0# ,__Time:1545722174879# ,__ElapsedRealtimeNanos:27869845470205# ,__Location:126.58641017080703,43.851195375744936# ,# ,__DifLocation:20.861004# ,__DifSpeed:0.0# ,__DifBearing:-167.08159# ,__DifTime:4364# ,__DiffElapsedRealtimeNanos:4363281457# ,__CalcSpeedPerHour:18.774904
+
+[12-25 15:16:34.863 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:51.0# ,__Time:1545722194848# ,__ElapsedRealtimeNanos:27889814998426# ,__Location:126.58703263334526,43.851871546271504# ,# ,__DifLocation:90.37522# ,__DifSpeed:0.0# ,__DifBearing:-146.33746# ,__DifTime:19969# ,__DiffElapsedRealtimeNanos:19969528221# ,__CalcSpeedPerHour:17.123724
+
+[12-25 15:16:51.401 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:47.0# ,__Time:1545722211389# ,__ElapsedRealtimeNanos:27906356073785# ,__Location:126.58710956708272,43.85194445087681# ,# ,__DifLocation:10.204018# ,__DifSpeed:0.0# ,__DifBearing:-142.64398# ,__DifTime:16541# ,__DiffElapsedRealtimeNanos:16541075359# ,__CalcSpeedPerHour:2.2959042
+
+[12-25 15:17:06.985 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545722226970# ,__ElapsedRealtimeNanos:27921937289872# ,__Location:126.58801067637972,43.851819897572085# ,# ,__DifLocation:73.82539# ,__DifSpeed:0.0# ,__DifBearing:-79.24389# ,__DifTime:15581# ,__DiffElapsedRealtimeNanos:15581216087# ,__CalcSpeedPerHour:17.718094
+
+[12-25 15:17:13.120 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:47.0# ,__Time:1545722233094# ,__ElapsedRealtimeNanos:27928060537891# ,__Location:126.58710956708272,43.85194445087681# ,# ,__DifLocation:73.82539# ,__DifSpeed:0.0# ,__DifBearing:100.755486# ,__DifTime:6124# ,__DiffElapsedRealtimeNanos:6123248019# ,__CalcSpeedPerHour:44.29524
+
+[12-25 15:17:16.179 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545722236164# ,__ElapsedRealtimeNanos:27931130994348# ,__Location:126.58785085477335,43.85200790076293# ,# ,__DifLocation:60.085224# ,__DifSpeed:0.0# ,__DifBearing:-96.79654# ,__DifTime:3070# ,__DiffElapsedRealtimeNanos:3070456457# ,__CalcSpeedPerHour:72.102264
+
+[12-25 15:17:19.214 2415:2415 I/androidsdk:]
+__Provider:network# ,__Satellies:n/a# ,__Bearing:0.0# ,__SpeedPerHour:0.0# ,__Accuracy:30.0# ,__Time:1545722239205# ,__ElapsedRealtimeNanos:27934171780076# ,__Location:126.58801067637972,43.851819897572085# ,# ,__DifLocation:24.5326# ,__DifSpeed:0.0# ,__DifBearing:-31.62902# ,__DifTime:3041# ,__DiffElapsedRealtimeNanos:3040785728# ,__CalcSpeedPerHour:29.43912
+
