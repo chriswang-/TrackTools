@@ -11,6 +11,7 @@
 // import AMap from 'AMap'
 // import $ from 'jquery'
 import File from '@/components/File'
+import Extractors from '.././utils/Extractor.js'
 
 export default {
   name: 'FileTray',
@@ -44,8 +45,8 @@ export default {
         var validLinesCount = 0
         var points = []
         value.chunk.split(/[\n]/g).forEach((v, i) => {
-          var filter = that.$parent.selectedFilter
-          var result = that.$parent[filter](v)
+          var filter = that.$parent.selectedExtractor
+          var result = Extractors[filter](v)
           if (result != null) {
             points.push(result)
             validLinesCount++

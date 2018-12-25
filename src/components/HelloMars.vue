@@ -3,10 +3,10 @@
     <div class="row">
       <div class="col-12">
         <input type="file" id="my_file_input" class="btn btn-primary" multiple="multiple" @change="addFile" />
-        <select v-model="selectedFilter">
-          <option v-for="fltr in pointFilters" v-bind:key="fltr.method" >{{fltr.method}}</option>
+        <select v-model="selectedExtractor">
+          <option v-for="fltr in pointExtractors" v-bind:key="fltr.method" >{{fltr.method}}</option>
         </select>
-        Description({{selectedFilter}}): {{currentSelectedDescription}}
+        Description({{selectedExtractor}}): {{currentSelectedDescription}}
       </div>
     </div>
     <FileTray v-bind:files="chunkFiles"  v-on:togglePolyline="togglePolyline" v-on:toggleMarker="toggleMarker" ></FileTray>
@@ -28,38 +28,23 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Mars App',
-      selectedFilter: 'KeywordsFilter',
-      pointFilters: [
+      selectedExtractor: 'KeywordsExtractor',
+      pointExtractors: [
         {
           name: 'Location keywords',
-          description: 'Filter location infomation, Sample: PointLocation:126.432432,36.432432543,PointTime:213214432432',
-          method: 'KeywordsFilter'
+          description: 'Sample: __Provider:network# ,__Time:1545637428552# ,__ElapsedRealtimeNanos:27385918802217# ,__Location:126.58816057813624,43.85210663808183# ',
+          method: 'KeywordsExtractor'
+        },
+        {
+          name: 'Location Json object',
+          description: 'Sample: {Provider:network,Time:234234324324,Location:"12323434,4543543"} ',
+          method: 'JsonExtractor'
         }
       ],
       chunkFiles: []
     }
   },
   methods: {
-    KeywordsFilter: function (lineString) {
-      var matchedLocationResult = lineString.match(/__Location:.*?#/g)
-      var matchedTimeResult = lineString.match(/__Time:.*?#/g)
-      var providerResult = lineString.match(/__Provider:.*?#/g)
-
-      if (lineString === undefined || lineString === null || matchedLocationResult == null || matchedTimeResult == null || providerResult == null) {
-        return null
-      }
-      var loc = matchedLocationResult[0].replace('__Location:', '').replace('#', '').split(',')
-      var tm = matchedTimeResult[0].replace('__Time:', '').replace('#', '')
-      var provider = providerResult[0].replace('__Provider:', '').replace('#', '')
-
-      return {
-        lng: loc[0],
-        lat: loc[1],
-        time: tm,
-        provider: provider,
-        rawLine: lineString
-      }
-    },
     addFile: function (oEvent) {
       var that = this
       var fileToJSon = function (index, oFile) {
@@ -132,9 +117,9 @@ export default {
   },
   computed: {
     currentSelectedDescription: function () {
-      for (var i = 0; i < this.pointFilters.length; i++) {
-        if (this.pointFilters[i].method === this.selectedFilter) {
-          return this.pointFilters[i].description
+      for (var i = 0; i < this.pointExtractors.length; i++) {
+        if (this.pointExtractors[i].method === this.selectedExtractor) {
+          return this.pointExtractors[i].description
         }
       }
       return 'N/A'

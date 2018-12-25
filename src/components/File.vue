@@ -78,7 +78,7 @@ export default {
     },
     toggleMarker: function (val) {
       var hintId = val.id + '_hint'
-      var dateRawLine = timeFormat(val.pointData.time) + ':' + (val.pointData.rawLine)
+      var dateRawLine = '[' + timeFormat(val.pointData.time) + ']:  ' + (val.pointData.rawLine)
       if (val.action === 'add') {
         $('#' + this.id).find('.panel-footer').append(' <div role="alert" id=' + hintId + ' class="alert-info" style="margin:1px;padding:1px">' + (dateRawLine) + '</div>')
         this.$emit('toggleMarker', val)
