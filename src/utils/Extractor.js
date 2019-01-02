@@ -28,13 +28,25 @@ export default {
       rawLine: lineString
     }
   },
-  JsonExtractor: function (lineString) {
+  ServerLogExtractor: function (lineString) {
+    var latArr = lineString.match(/lat":"([0-9]*\.?[0-9]+|[0-9]+\.?[0-9]*)/g)
+    var lngArr = lineString.match(/lng":"([0-9]*\.?[0-9]+|[0-9]+\.?[0-9]*)/g)
+    var lat = null
+    var lng = null
+    if (lineString === undefined || lineString === null) {
+      return null
+    }
+    if (latArr == null || lngArr == null) {
+      return null
+    }
+    lng = lngArr[0].replace('lng":', '').replace('"', '')
+    lat = latArr[0].replace('lat":', '').replace('"', '')
     return {
-      lng: 0,
-      lat: 0,
+      lng: lng,
+      lat: lat,
       time: 123,
       provider: '',
-      rawLine: ''
+      rawLine: lineString
     }
   }
 }

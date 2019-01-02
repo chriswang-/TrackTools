@@ -36,9 +36,9 @@ export default {
           method: 'KeywordsExtractor'
         },
         {
-          name: 'Location Json object',
-          description: 'Sample: {Provider:network,Time:234234324324,Location:"12323434,4543543"} ',
-          method: 'JsonExtractor'
+          name: 'Location Server Log',
+          description: 'Sample: 2018-12-27 14:49:13.441 INFO  MessageDispatcher.java:71 [8100-exec-1] - 上传啦, messageBody:{"msgBody":{"distance":0,"driverId":21,"lat":"43.85152316623264","lng":"126.61150580512152"},"msgType":"DRIVER_LOC","token":"6e4377191f7f4989aa617f8a87b4621c"} ',
+          method: 'ServerLogExtractor'
         }
       ],
       chunkFiles: []
