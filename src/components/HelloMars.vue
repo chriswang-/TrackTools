@@ -28,12 +28,12 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Mars App',
-      selectedExtractor: 'KeywordsExtractor',
+      selectedExtractor: 'AndroidLogExtractor',
       pointExtractors: [
         {
-          name: 'Location keywords',
+          name: 'Location android log',
           description: 'Sample: __Provider:network# ,__Time:1545637428552# ,__ElapsedRealtimeNanos:27385918802217# ,__Location:126.58816057813624,43.85210663808183# ',
-          method: 'KeywordsExtractor'
+          method: 'AndroidLogExtractor'
         },
         {
           name: 'Location Server Log',

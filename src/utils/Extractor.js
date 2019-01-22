@@ -8,7 +8,7 @@
     }
  */
 export default {
-  KeywordsExtractor: function (lineString) {
+  AndroidLogExtractor: function (lineString) {
     var matchedLocationResult = lineString.match(/__Location:.*?#/g)
     var matchedTimeResult = lineString.match(/__Time:.*?#/g)
     var providerResult = lineString.match(/__Provider:.*?#/g)
