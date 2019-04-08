@@ -4,7 +4,7 @@
 > track by using Gaode Map.  
 > Access: http://location:3000
 
-![Bilby Stampede](http://example.com/images/logo.png)
+![Bilby Stampede](https://raw.githubusercontent.com/chriswang-/TrackTools/master/src/assets/snapshot.png)
 
 
 ## track-tools supports the following GPS log format, and It allows to extends to any kinds of  log format
