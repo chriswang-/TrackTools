@@ -1,7 +1,7 @@
 # track-tools
 
-> A tool for monitoring the GPS tracks logs. You can drag your log files into the tools which is able generate the 
-> track by using Gaode Map  
+> A tool for monitoring the GPS tracks logs. You can drag your log files into the tools which is able to generate the 
+> track by using Gaode Map.  
 > Access: http://location:3000
 
 ## track-tools supports the following GPS log format, and It allows to extends to any kinds of  log format
