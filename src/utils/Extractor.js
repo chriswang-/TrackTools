@@ -29,8 +29,8 @@ export default {
     }
   },
   ServerLogExtractor: function (lineString) {
-    var latArr = lineString.match(/lat":"([0-9]*\.?[0-9]+|[0-9]+\.?[0-9]*)/g)
-    var lngArr = lineString.match(/lng":"([0-9]*\.?[0-9]+|[0-9]+\.?[0-9]*)/g)
+    var latArr = lineString.match(/lat":"([0-9]*\.?[0-9]+|[0-9]+\.?[0-9]*)/g) || lineString.match(/lat":([0-9]*\.?[0-9]+|[0-9]+\.?[0-9]*)/g)
+    var lngArr = lineString.match(/lng":"([0-9]*\.?[0-9]+|[0-9]+\.?[0-9]*)/g) || lineString.match(/lng":([0-9]*\.?[0-9]+|[0-9]+\.?[0-9]*)/g)
     var lat = null
     var lng = null
     if (lineString === undefined || lineString === null) {
